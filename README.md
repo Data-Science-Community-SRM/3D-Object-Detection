@@ -16,7 +16,7 @@
 
 - ### Mediapipe objectron
  1. Creates the 3D boundry box successfully.
- 2. But the create only for 4 available models(Cup, Shoes, Camera, Chair).
+ 2. But they create only for 4 available models(Cup, Shoes, Camera, Chair).
  
  ![alt text](https://github.com/Data-Science-Community-SRM/3D-Object-Detection/blob/ml-ks/Data/Output%20of%20mediapipe%20model.png)
 
