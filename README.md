@@ -23,7 +23,7 @@
  ![alt text](https://github.com/Data-Science-Community-SRM/3D-Object-Detection/blob/ml-ks/Data/Output%20of%20mediapipe%20model.png)
 
 - ### To start your model :-
- 1. Install all dependency requirements.txt file 
+ 1. Install all dependency from requirements.txt file 
  ```bash
     git clone https://github.com/Data-Science-Community-SRM/3D-Object-Detection.git # clone
     cd 3D-Object-Detection
