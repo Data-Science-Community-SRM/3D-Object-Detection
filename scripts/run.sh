@@ -1,0 +1,1 @@
+gunicorn --workers 4 app.main:app --threads=1 --bind 0.0.0.0
